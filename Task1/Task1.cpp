@@ -19,7 +19,6 @@ int main()
 	double p = a + b + c + d;
 
 	double s = ((a + b) / 4) * sqrt(4*pow(c, 2)-pow(a-b, 2));
-	//Просмотреть площадь
 
 	cout << "Perimeter of a trapezoid: " << p << endl;
 
